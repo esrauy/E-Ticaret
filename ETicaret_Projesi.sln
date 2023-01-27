@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.WebUI", "ETicaret.WebUI\ETicaret.WebUI.csproj", "{DDA106F0-BA4D-4499-8106-29AF54B457BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.Entities", "ETicaret.Entities\ETicaret.Entities.csproj", "{80545068-ACCF-45E8-91FD-E64A5AA88941}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.DataAccessLayer", "ETicaret.DataAccessLayer\ETicaret.DataAccessLayer.csproj", "{9411EA00-9F97-4FCD-8E5E-986C2C51E16C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.BusinessLayer", "ETicaret.BusinessLayer\ETicaret.BusinessLayer.csproj", "{960AAA92-F886-4B0D-9A95-A519F8E03320}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40C86078-2D89-4119-B3A8-AC12FE9DA3E3}"
+	ProjectSection(SolutionItems) = preProject
+		Notlar.txt = Notlar.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA106F0-BA4D-4499-8106-29AF54B457BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA106F0-BA4D-4499-8106-29AF54B457BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA106F0-BA4D-4499-8106-29AF54B457BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA106F0-BA4D-4499-8106-29AF54B457BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80545068-ACCF-45E8-91FD-E64A5AA88941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80545068-ACCF-45E8-91FD-E64A5AA88941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80545068-ACCF-45E8-91FD-E64A5AA88941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80545068-ACCF-45E8-91FD-E64A5AA88941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9411EA00-9F97-4FCD-8E5E-986C2C51E16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9411EA00-9F97-4FCD-8E5E-986C2C51E16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9411EA00-9F97-4FCD-8E5E-986C2C51E16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9411EA00-9F97-4FCD-8E5E-986C2C51E16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960AAA92-F886-4B0D-9A95-A519F8E03320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960AAA92-F886-4B0D-9A95-A519F8E03320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960AAA92-F886-4B0D-9A95-A519F8E03320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960AAA92-F886-4B0D-9A95-A519F8E03320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {010C6FC6-F613-422A-8F11-D3ADF22CEBD8}
+	EndGlobalSection
+EndGlobal
