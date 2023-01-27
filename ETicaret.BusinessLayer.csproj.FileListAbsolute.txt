@@ -1,0 +1,63 @@
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.deps.json
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.AssemblyInfo.cs
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\refint\ETicaret.BusinessLayer.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ref\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.deps.json
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.AssemblyInfo.cs
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\refint\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ref\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.DataAccessLayer.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.DataAccessLayer.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.CopyComplete
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.deps.json
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.DataAccessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.DataAccessLayer.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.AssemblyInfo.cs
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.CopyComplete
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\refint\ETicaret.BusinessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ref\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.deps.json
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.DataAccessLayer.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.DataAccessLayer.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.AssemblyInfo.cs
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.CopyComplete
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\refint\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.BusinessLayer\obj\Debug\net6.0\ref\ETicaret.BusinessLayer.dll

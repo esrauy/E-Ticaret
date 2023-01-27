@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.BusinessLayer\\ETicaret.BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.BusinessLayer\\ETicaret.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.BusinessLayer\\ETicaret.BusinessLayer.csproj",
+        "projectName": "ETicaret.BusinessLayer",
+        "projectPath": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.BusinessLayer\\ETicaret.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Network Akademi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Network Akademi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj"
+              },
+              "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.Entities\\ETicaret.Entities.csproj": {
+                "projectPath": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.Entities\\ETicaret.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
+        "projectName": "ETicaret.DataAccessLayer",
+        "projectPath": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Network Akademi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Network Akademi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.Entities\\ETicaret.Entities.csproj": {
+                "projectPath": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.Entities\\ETicaret.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.Entities\\ETicaret.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.Entities\\ETicaret.Entities.csproj",
+        "projectName": "ETicaret.Entities",
+        "projectPath": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.Entities\\ETicaret.Entities.csproj",
+        "packagesPath": "C:\\Users\\Network Akademi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Network Akademi\\Desktop\\ETicaret_Projesi\\ETicaret.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Network Akademi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

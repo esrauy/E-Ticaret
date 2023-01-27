@@ -1,0 +1,48 @@
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.deps.json
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.AssemblyInfo.cs
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\refint\ETicaret.Entities.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ref\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.deps.json
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.csproj.AssemblyReference.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.AssemblyInfoInputs.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.AssemblyInfo.cs
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\refint\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ref\ETicaret.Entities.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.deps.json
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.csproj.AssemblyReference.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.AssemblyInfoInputs.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.AssemblyInfo.cs
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\refint\ETicaret.Entities.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ref\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.deps.json
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.csproj.AssemblyReference.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.AssemblyInfoInputs.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.AssemblyInfo.cs
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\refint\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.Entities\obj\Debug\net6.0\ref\ETicaret.Entities.dll
