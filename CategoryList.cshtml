@@ -1,0 +1,48 @@
+﻿@model CategoryListViewModel
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Admin Kategoriler Sayfası</h1>
+        <hr />
+        <a href="/admin/categories/create" class="btn btn-success btn-sm">Kategori Ekle</a>
+
+        <table class="table table-bordered mt-3">
+            <thead>
+                <tr>
+                    <td style="width:35px">Id</td>
+                    <td>Kategori Adı</td>
+                    <td style="width:200px">Kategori Url</td>
+                    <td style="width:150px"> </td>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Categories.Count() > 0)
+                {
+                    @foreach (var category in Model.Categories)
+                    {
+                        <tr>
+                            <td>@category.Id</td>
+                            <td>@category.Name</td>
+                            <td>@category.Url</td>
+                            <td>
+                                <a href="/admin/categories/@category.Id" class="btn btn-success btn-sm mr-2">Güncelle</a>
+                                <form action="/admin/deletecategory" method="post" style="display:inline">
+                                    <input type="hidden" name="Id" value="@category.Id" />
+                                    <button type="submit" class="btn btn-danger btn-sm"> Sil</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+
+                }
+                else
+                {
+                    <div class="alert alert-warning">
+                        <h3>Listelenecek kategori bulunamadı.</h3>
+                    </div>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>

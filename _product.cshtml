@@ -1,0 +1,22 @@
+﻿@model Product
+
+<div class="card mb-2">
+    <img style="width:auto; height:200px" class="card-img-top" src="~/images/@Model.ImageUrl" alt="" />
+    <div class="card-body">
+        <h5 class="card-title"> @Model.Name </h5>
+        <small class="text-muted">
+            <i class="fa-solid fa-turkish-lira-sign"> </i> @Model.Price
+        </small>
+        <div class="card-footer text-center">
+            <a asp-action="details" asp-controller="shop" asp-route-url="@Model.Url" class="btn btn-success btn-sm"> Ayrıntılar</a>
+            @if(User.Identity.IsAuthenticated)
+            {
+                <form asp-controller="cart" asp-action="AddToCart" method="post" style="display-inline">
+                    <input type="hidden" name="productId" value="@Model.Id" />
+                    <input type="hidden" name="quantity" value="1" />
+                    <button type="submit" class="btn btn-success btn-sm"> Sepete Ekle</button>
+                </form>
+            }
+        </div>
+    </div>
+</div>

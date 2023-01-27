@@ -1,0 +1,39 @@
+﻿ @model ETicaret.WebUI.ViewModel.ProductListViewModel
+
+
+<div class="row">
+    <div class="col-md-3">
+
+        @await Component.InvokeAsync("Categories")
+
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            @foreach (var product in Model.Products)
+            {
+                <div class="col-md-4">
+                    @await Html.PartialAsync("_product", product)
+            </div>
+            }            
+        </div>
+        <div class="row">
+            <div class="col">
+                <nav aria-label="Page navigation example">
+                    <ul class="pagination justify-content-center">
+                      @for(var i = 0; i<Model.PageInfo.TotalPage() ; i++)
+                        {
+                            if(String.IsNullOrEmpty(Model.PageInfo.CurrentCategory))
+                            {
+                                <li class="page-item @(Model.PageInfo.CurrentPage==(i+1)?"active":"")"><a class="page-link" href="/products?page=@(i+1)">@(i+1)</a></li>
+                            }
+                            else
+                            {
+                                <li class="page-item @(Model.PageInfo.CurrentPage==(i+1)?"active":"")"><a class="page-link" href="/products/@Model.PageInfo.CurrentCategory?page=@(i+1)">@(i+1)</a></li>
+                            }
+                        } 
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>

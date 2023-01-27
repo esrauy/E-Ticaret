@@ -1,0 +1,280 @@
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.staticwebassets.runtime.json
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.exe
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.deps.json
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.runtimeconfig.json
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.pdb
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.AssemblyInfo.cs
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.RazorAssemblyInfo.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.RazorAssemblyInfo.cs
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\scopedcss\bundle\ETicaret.WebUI.styles.css
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\ETicaret.WebUI.bundle.scp.css
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\refint\ETicaret.WebUI.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.pdb
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.genruntimeconfig.cache
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ref\ETicaret.WebUI.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.CopyComplete
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.DataAccessLayer.dll
+C:\Users\pc\source\repos\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.DataAccessLayer.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\appsettings.json
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.staticwebassets.runtime.json
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.exe
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.deps.json
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.runtimeconfig.json
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.DataAccessLayer.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.DataAccessLayer.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.AssemblyReference.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.AssemblyInfoInputs.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.AssemblyInfo.cs
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.RazorAssemblyInfo.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.RazorAssemblyInfo.cs
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\scopedcss\bundle\ETicaret.WebUI.styles.css
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.CopyComplete
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\refint\ETicaret.WebUI.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.pdb
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.genruntimeconfig.cache
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ref\ETicaret.WebUI.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\appsettings.json
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.staticwebassets.runtime.json
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.exe
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.deps.json
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.runtimeconfig.json
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.DataAccessLayer.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.DataAccessLayer.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.AssemblyReference.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.AssemblyInfoInputs.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.AssemblyInfo.cs
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.RazorAssemblyInfo.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.RazorAssemblyInfo.cs
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets\msbuild.ETicaret.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets\msbuild.build.ETicaret.WebUI.props
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ETicaret.WebUI.props
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ETicaret.WebUI.props
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\scopedcss\bundle\ETicaret.WebUI.styles.css
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.CopyComplete
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\refint\ETicaret.WebUI.dll
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.pdb
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.genruntimeconfig.cache
+C:\Users\esrau\OneDrive\Masaüstü\NetworkProjelerim\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ref\ETicaret.WebUI.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\appsettings.json
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.staticwebassets.runtime.json
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.exe
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.deps.json
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.runtimeconfig.json
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.WebUI.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.DataAccessLayer.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.Entities.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.DataAccessLayer.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.Entities.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.AssemblyReference.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.AssemblyInfoInputs.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.AssemblyInfo.cs
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.RazorAssemblyInfo.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.RazorAssemblyInfo.cs
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\scopedcss\bundle\ETicaret.WebUI.styles.css
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.csproj.CopyComplete
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\refint\ETicaret.WebUI.dll
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.pdb
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ETicaret.WebUI.genruntimeconfig.cache
+C:\Users\Network Akademi\Desktop\AkşamYazılım\ETicaret_Projesi\ETicaret.WebUI\obj\Debug\net6.0\ref\ETicaret.WebUI.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Network Akademi\Desktop\ETicaret_Projesi\ETicaret.WebUI\bin\Debug\net6.0\Iyzipay.dll

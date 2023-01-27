@@ -1,0 +1,52 @@
+﻿<div class="navbar bg-success navbar-dark navbar-expand-sm">
+    <a href="/" class="navbar-brand"> E-Ticaret 💲</a>
+    <ul class="navbar-nav nav-tabs mr-auto">
+        <li class="nav-item">
+            <a href="/products" class="nav-link">Ürünler 🛍</a>
+        </li>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <li class="nav-item">
+                <a href="/cart" class="nav-link">Sepet 🛒</a>
+            </li>
+            <li class="nav-item">
+                <a href="orders" class="nav-link">Siparişlerim 📦</a>
+            </li>
+            @if (User.IsInRole("Admin"))
+            {
+                <li class="nav-item">
+                    <a href="/admin/products" class="nav-link">Admin Ürün Sayfası 🛍</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/admin/categories" class="nav-link">Admin Kategori Sayfası 🛍</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/admin/role/list" class="nav-link">Admin Rol 🧾</a>
+                </li>
+                 <li class="nav-item">
+                    <a href="/admin/user/list" class="nav-link">Üyeler 🧾</a>
+                </li>
+            }
+        }
+    </ul>
+    <ul class="navbar-nav nav-tabs ml-auto">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <li class="nav-item">
+                <a href="/account/manage" class="nav-link" style="color:black">👥 @User.Identity.Name</a>
+            </li>
+            <li class="nav-item">
+                <a href="/logout" class="nav-link" style="color:black">Çıkış</a>
+            </li>
+        }
+        else
+        {
+            <li class="nav-item">
+                <a href="/register" class="nav-link" style="color:black">Kaydol</a>
+            </li>
+            <li class="nav-item">
+                <a href="/login" class="nav-link" style="color:black">Giriş</a>
+            </li>
+        }
+    </ul>
+</div>

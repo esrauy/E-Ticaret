@@ -1,0 +1,85 @@
+﻿@model ProductModel
+
+<h3>Ürün Güncelle</h3>
+@* dosya upload için öncelikle form tag'inde enctype isimli özelliğe multipart/form-data değerini vermemiz gerekiyor. *@
+<form asp-controller="Admin" asp-action="EditProduct" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="row">
+        <div class="col-md-8">
+            <input type="hidden" value="@Model.Id" name="Id" />
+            <div class="form-group row">
+                <label class="col-sm-2 col-form-label" asp-for="Name"></label>
+                <div class="col-sm-10">
+                    <input class="form-control" asp-for="Name" />
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label class="col-sm-2 col-form-label" asp-for="Description"></label>
+                <div class="col-sm-10">
+                    <input class="form-control" asp-for="Description" />
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label class="col-sm-2 col-form-label" asp-for="Price"></label>
+                <div class="col-sm-10">
+                    <input class="form-control" asp-for="Price" />
+                    <span class="text-danger" asp-validation-for="Price"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label class="col-sm-2 col-form-label" asp-for="Url"></label>
+                <div class="col-sm-10">
+                    <input class="form-control" asp-for="Url" />
+                    <span class="text-danger" asp-validation-for="Url"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label class="col-sm-2 col-form-label" asp-for="ImageUrl"></label>
+                <div class="col-sm-10">
+                    @* dosya yüklemek için *@
+                    @*<input class="form-control" asp-for="ImageUrl" />*@
+                    <input type="hidden" asp-for="ImageUrl" />
+                    <img src="~/images/@Model.ImageUrl" width="80" alt="" />
+                    <input type="file" name="file" />
+                    @*<span class="text-danger" asp-validation-for="ImageUrl"></span>*@
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-sm-10 offset-sm-2">
+                    <button type="submit" class="btn btn-success">Güncelle</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            @for (int i = 0; i < Model.SelectedCategories.Count; i++)
+            {
+                <input type="hidden" name="SelectedCategories[@i].Id" value="@Model.SelectedCategories[@i].Id" />
+                <input type="hidden" name="SelectedCategories[@i].Name" value="@Model.SelectedCategories[@i].Name" />
+                <input type="hidden" name="SelectedCategories[@i].Url" value="@Model.SelectedCategories[@i].Url" />
+                <input type="hidden" name="SelectedCategories[@i].ProductCategories" value="@Model.SelectedCategories[@i].ProductCategories" />
+            }
+            @foreach (var category in (List<Category>)ViewBag.Categories)
+            {
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox"
+                       class="custom-control-input"
+                       id="category_@category.Id"
+                       name="categoryIds"
+                       value="@category.Id" @(Model.SelectedCategories.Any(x=> x.Id==category.Id)?"checked":"") />
+                    <label class="custom-control-label" for="category_@category.Id">@category.Name</label>
+                </div>
+            }
+            <hr />
+            <div class="custom-control custom-checkbox">
+                <input type="checkbox" asp-for="IsApproved" class="custom-control-input" />
+                <label class="custom-control-label" asp-for="IsApproved"> </label>
+            </div>
+            <div class="custom-control custom-checkbox">
+                <input type="checkbox" asp-for="IsHome" class="custom-control-input" />
+                <label class="custom-control-label" asp-for="IsHome"> </label>
+            </div>
+        </div>
+    </div>
+</form>
